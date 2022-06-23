@@ -1,0 +1,93 @@
+.ex1 {
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+}
+.ex2 {
+  margin-top: 1cm;
+}
+.ex3{
+  margin-top: 5.5cm;
+}
+
+.ex4{
+  margin-bottom: 10px;
+}
+
+.ex5{
+  margin-top: .5cm;
+}
+
+.p1 {
+  color: gray;
+}
+
+.p2{
+    color: white;
+}
+
+.p3{
+  color: black;
+}
+
+p{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+
+h2{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+
+h3{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+
+h4{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+
+.cara {
+  background-image: url(../assets/img/Fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.clarito{
+  background-color: #b7edbf;
+}
+
+.cita{
+  font-size: small;
+}
+
+p.estilo-1::first-letter{
+	font-size:3em;
+	font-family:'Times New Roman', Times, serif;
+}
+
+.fondo{
+  background-image: url(../assets/img/fondo.gif);
+  background-size: cover;
+  background-repeat:repeat;
+  background-position:center;
+}
+ 
+.fullHeight {
+  position:fixed;
+  top: 0;
+  bottom: 0;
+}
+
+.bonito{
+  font-family: 'Times New Roman', Times, serif;
+}
+
