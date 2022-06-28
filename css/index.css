@@ -17,6 +17,10 @@
   margin-top: .5cm;
 }
 
+.ex6{
+  margin-top: 8cm;
+}
+
 .p1 {
   color: gray;
 }
@@ -54,6 +58,11 @@ h4{
   color: white;
 }
 
+h5{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+
 .cara {
   background-image: url(../assets/img/Fondo.jpg);
   background-size: cover;
@@ -61,8 +70,19 @@ h4{
   background-position: center center;
 }
 
+.diana {
+  background-image: url(../assets/img/diana.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .clarito{
   background-color: #b7edbf;
+}
+
+.btnBlanco{
+  background-color: #ffffff;
 }
 
 .cita{
@@ -87,7 +107,19 @@ p.estilo-1::first-letter{
   bottom: 0;
 }
 
-.bonito{
-  font-family: 'Times New Roman', Times, serif;
+.bold{
+  font-weight: bolder;
 }
 
+.leve{
+  font-weight: lighter;
+}
+
+.bonito{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+}
+
+.inverted{
+  filter: invert(100%);
+}
